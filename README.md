@@ -1,7 +1,8 @@
 # StickerSmash
 The Expo Tutorial for adding Emojis to Pictures in Expo
 
+[Static Web App](https://jongan69.github.io/StickerSmash/)
 
-https://expo.dev/@jongan69/StickerSmash
+[Mobile App](https://expo.dev/@jongan69/StickerSmash)
 
-https://docs.expo.dev/tutorial/introduction/
+[Tutorial](https://docs.expo.dev/tutorial/introduction/)
