@@ -1,0 +1,31 @@
+{
+  "files": {
+    "app.js": "/StickerSmash/static/js/app.145dea3d.chunk.js",
+    "app.js.map": "/StickerSmash/static/js/app.145dea3d.chunk.js.map",
+    "runtime~app.js": "/StickerSmash/static/js/runtime~app.c8110640.js",
+    "runtime~app.js.map": "/StickerSmash/static/js/runtime~app.c8110640.js.map",
+    "static/js/2.719b5774.chunk.js": "/StickerSmash/static/js/2.719b5774.chunk.js",
+    "static/js/2.719b5774.chunk.js.map": "/StickerSmash/static/js/2.719b5774.chunk.js.map",
+    "fonts/FontAwesome.ttf": "/StickerSmash/./fonts/FontAwesome.ttf",
+    "fonts/MaterialIcons.ttf": "/StickerSmash/./fonts/MaterialIcons.ttf",
+    "favicon-16.png": "/StickerSmash/favicon-16.png",
+    "favicon-32.png": "/StickerSmash/favicon-32.png",
+    "favicon.ico": "/StickerSmash/favicon.ico",
+    "index.html": "/StickerSmash/index.html",
+    "manifest.json": "/StickerSmash/manifest.json",
+    "serve.json": "/StickerSmash/serve.json",
+    "static/js/2.719b5774.chunk.js.LICENSE.txt": "/StickerSmash/static/js/2.719b5774.chunk.js.LICENSE.txt",
+    "static/media/background-image.png": "/StickerSmash/static/media/background-image.979cd865.png",
+    "static/media/emoji1.png": "/StickerSmash/static/media/emoji1.7df01aee.png",
+    "static/media/emoji2.png": "/StickerSmash/static/media/emoji2.5685d9a2.png",
+    "static/media/emoji3.png": "/StickerSmash/static/media/emoji3.d02b4d80.png",
+    "static/media/emoji4.png": "/StickerSmash/static/media/emoji4.9f86a388.png",
+    "static/media/emoji5.png": "/StickerSmash/static/media/emoji5.3ca0d7e3.png",
+    "static/media/emoji6.png": "/StickerSmash/static/media/emoji6.e2cad3fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.c8110640.js",
+    "static/js/2.719b5774.chunk.js",
+    "static/js/app.145dea3d.chunk.js"
+  ]
+}
